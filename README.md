@@ -18,6 +18,3 @@ Este repositorio contiene la API RESTful para el sistema de gestión hotelera.
 1. Clona el repositorio:
    `git clone <URL del repositorio>`
 2. Sigue las instrucciones en la sección **Instalación** del archivo `README.md`.
-
-## Licencia
-[MIT](LICENSE)
